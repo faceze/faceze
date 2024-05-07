@@ -1,7 +1,9 @@
 # Creator
 ## Comic Books, Games & Stories
-![Anya Maconia](https://img.shields.io/badge/Anya-Maconia-d6156f)
-![Static Badge](https://img.shields.io/badge/Chinpira-yellow?style=flat-square&labelColor=red&color=gold&link=https%3A%2F%2Ffaceze.itch.io%2F)
+<!-- ![Anya Maconia](https://img.shields.io/badge/Anya-Maconia-d6156f) -->
+![Static Badge](https://img.shields.io/badge/Maconia-d6156f?style=for-the-badge&label=Anya&labelColor=dark-grey&color=%23d6156f&link=https%3A%2F%2Ffaceze.itch.io%2F)
+
+![Static Badge](https://img.shields.io/badge/Chinpira-yellow?style=for-the-badge&labelColor=red&color=gold&link=https%3A%2F%2Ffaceze.itch.io%2F)
 
 
 ### As seen on
@@ -23,10 +25,11 @@
 
 ### Tools
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
-![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
+![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
+![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
+
 
 ### $
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
