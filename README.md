@@ -1,5 +1,5 @@
-## Creator
-### Comic Books & Games:
+# Creator
+### Comic Books, Games & Stories:
 ![Anya Maconia](https://img.shields.io/badge/Anya-Maconia-d6156f)
 ![Chinpira](https://img.shields.io/badge/Chinpira-yellow?style=flat)
 
