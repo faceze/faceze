@@ -5,6 +5,8 @@
 
 ![Static Badge](https://img.shields.io/badge/Chinpira-yellow?style=for-the-badge&labelColor=red&color=gold&link=https%3A%2F%2Ffaceze.itch.io%2F)
 
+![Static Badge](https://img.shields.io/badge/Color_Monstrosities-green?style=for-the-badge&color=green&link=https%3A%2F%2Ffaceze.itch.io%2F)
+
 
 ### As seen on
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white&link=https%3A%2F%2Ffaceze.itch.io%2F)
